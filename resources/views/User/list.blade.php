@@ -1,4 +1,4 @@
-@extends('user.Master')
+@extends('User.master')
 
 @section('Title','Liste')
 
