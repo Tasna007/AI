@@ -141,7 +141,7 @@
             </div>
           </div>
         </div>
-        <div class="full-screen-block__slide section" style="background-image: url(assets/img/pexels-andrew-neel-15863000.jpg)">
+        <div class="full-screen-block__slide section" style="background-image: url(assets/img/pexels-andrew-neel-15863000.avif)">
           <div class="container">
             <div class="full-screen-block__slide-inner">
               <div class="full-screen-block__subtitle">A savoir</div>
