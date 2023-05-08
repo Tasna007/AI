@@ -92,7 +92,7 @@
           </div>
           <div class="menu-panel__bottom">
             <div class="menu-panel__copyright">© 2019
-              <strong>ARQUITO.</strong>
+              <strong>AI-FLOW.</strong>
               All Rights Reserved.
             </div>
             <div class="menu-panel__author">Design by

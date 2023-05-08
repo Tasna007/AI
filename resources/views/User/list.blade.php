@@ -51,7 +51,7 @@
   <footer class="footer-default footer">
     <div class="container">
       <div class="footer-default__head">
-        <a class="logo" href="/">Arquito</a>
+        <a class="logo" href="/">AI-FLOW</a>
       </div>
       <div class="row">
         <div class="footer-default__column col-12 col-sm-6 col-md-3">
@@ -60,9 +60,7 @@
             <br/>
             CA, 90210
           </p>
-          <p>
-            <a href="mailto:infor@arquito.com">infor@arquito.com</a>
-          </p>
+          
           <p>+0085 346 2188</p>
         </div>
         <div class="footer-default__column col-12 col-sm-6 col-md-3">
@@ -118,7 +116,7 @@
       </div>
       <div class="footer-default__bottom">
         <div class="footer-default__copyright">© 2019
-          <strong>ARQUITO.</strong>
+          <strong>AI-FLOW</strong>
           All Rights Reserved.
         </div>
         <div class="footer-default__author">Design by
@@ -133,9 +131,9 @@
 @section('Import')
     <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Arquito - 3D Architecture &amp; Interior HTML Template" name="description">
+  <meta content="AI-FLOW" name="description">
   <meta content="Paul, Logan Cee, Mikhail Ojereliev" name="author">
-  <title>Arquito - 3D Architecture &amp; Interior HTML Template</title>
+  <title>AI-FLOW</title>
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
   <link href="assets1/css/icofont.min.css" rel="stylesheet">
@@ -184,7 +182,7 @@
     <div class="header__container">
       <div class="header__wrapper container-fluid">
         <div class="header__inner">
-          <a class="logo header__logo" href="/">Arquito</a>
+          <a class="logo header__logo" href="/">AI-FLOW</a>
           <button class="header__menu-button" type="button">
             <span class="header__menu-button-inner"></span>
           </button>
@@ -240,7 +238,7 @@
           </div>
           <div class="menu-panel__bottom">
             <div class="menu-panel__copyright">© 2019
-              <strong>ARQUITO.</strong>
+              <strong>AI-FLOW</strong>
               All Rights Reserved.
             </div>
             <div class="menu-panel__author">Design by

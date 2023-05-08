@@ -55,9 +55,9 @@ Parce qu'ils ont peur de se mouiller les circuits !</div>
 @section('Import')
     <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <meta content="Arquito - 3D Architecture &amp; Interior HTML Template" name="description">
+  <meta content="AI-FLOW" name="description">
   <meta content="Paul, Logan Cee, Mikhail Ojereliev" name="author">
-  <title>Arquito - 3D Architecture &amp; Interior HTML Template</title>
+  
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Teko:300,400" rel="stylesheet">
   <!--CSS-->
   <link href="/assets1/css/icofont.min.css" rel="stylesheet">
@@ -162,7 +162,7 @@ Parce qu'ils ont peur de se mouiller les circuits !</div>
           </div>
           <div class="menu-panel__bottom">
             <div class="menu-panel__copyright">© 2019
-              <strong>ARQUITO.</strong>
+              <strong>AI-FLOW</strong>
               All Rights Reserved.
             </div>
             <div class="menu-panel__author">Design by
