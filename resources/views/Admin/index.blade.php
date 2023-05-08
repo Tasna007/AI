@@ -1,4 +1,4 @@
-@extends('user.master')
+@extends('User.master')
 
 @section('Title','Ajout Contenu')
 
